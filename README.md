@@ -18,14 +18,14 @@ Este é um simples jogo de Pedra, Papel e Tesoura (Rock, Paper, Scissors) implem
 
 ## Como Jogar
 
-1. **Compile e execute o código-fonte do jogo usando o compilador Java.**
+1. **Compile o código-fonte do jogo usando o compilador Java.**
 
-```shell
-javac *.java
-java Main
+   ```shell
+   javac *.java
+   java Main
 
-2. **Siga as instruções na tela para cada jogador escolher sua jogada:**
-
+2. **Siga as instruções para cada jogador escolher sua jogada:**
+   
 Digite '1' para escolher Pedra.
 Digite '2' para escolher Papel.
 Digite '3' para escolher Tesoura.
