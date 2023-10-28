@@ -24,10 +24,4 @@ Este é um simples jogo de Pedra, Papel e Tesoura (Rock, Paper, Scissors) implem
    javac *.java
    java Main
 
-2. **Siga as instruções para cada jogador escolher sua jogada:**
-   
-Digite '1' para escolher Pedra.
-Digite '2' para escolher Papel.
-Digite '3' para escolher Tesoura.
-O programa determinará o vencedor e exibirá o resultado na tela.
 
